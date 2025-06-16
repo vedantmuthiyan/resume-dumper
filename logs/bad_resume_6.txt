@@ -1,0 +1,63 @@
+{
+  "name": "Im A. Sample III",
+  "email": "imasample3@xxx.com",
+  "education": {
+    "university": "Bellevue University",
+    "location": "Bellevue, NE",
+    "degree": "Bachelor of Science in Management of Human Resources",
+    "gpa": "3.84/4.00",
+    "graduation_date": "June 20xx",
+    "distinction": "Graduated with distinction"
+  },
+  "skills": [
+    "MS Office (Word, Excel, PowerPoint)",
+    "PeopleSoft",
+    "Customer Service",
+    "Communication",
+    "Human Relations",
+    "Leadership",
+    "Team Management",
+    "Budgeting",
+    "Business Planning"
+  ],
+  "experience": [
+    {
+      "company": "West Telemarketing",
+      "location": "Omaha, NE",
+      "role": "Customer Service Supervisor",
+      "dates": "20xx to Present",
+      "responsibilities": [
+      "Supervise operations and staff in a 20-person inbound telemarketing unit",
+      "Hiring, training, and evaluating employees",
+      "Preparing and administering annual budgets",
+      "Developing business plans",
+      "Assess level of customer satisfaction and resolve sensitive and complex issues raised by customers"
+    ]
+    },
+    {
+      "company": "West Telemarketing",
+      "location": "Omaha, NE",
+      "role": "Customer Service Representative",
+      "dates": "20xx-20xx",
+      "responsibilities": [
+        "Handled incoming calls from customers and potential customers",
+        "Provided information and received orders using CRT to input data",
+        "Interviewed customers and recommended other available products to meet their needs",
+        "Provided orientation and training to new staff members"
+      ]
+    }
+  ],
+  "professional_affiliations": [
+    "Society for Human Resources Management (SHRM)",
+    "dates": "20xx to 20xx",
+    "role": "Member",
+    "chapter": "Bellevue University Student Chapter",
+    "committee": "Chair, Program Development Committee"
+  ],
+  {
+    "organization": "American Business Women's Association, Gold Star Chapter",
+    "role": "President",
+    "dates": "20xx"
+  }
+  ]
+}

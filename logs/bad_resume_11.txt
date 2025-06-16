@@ -1,0 +1,75 @@
+{
+  "name": "Vedant Muthiyan",
+  "email": "vedant.muthiyan@gmail.com",
+  "education": {
+    "institution": "MIT-WPU, Pune",
+    "degree": "Integrated B.Tech in Computer Science and Engineering",
+    "duration": "2023 - 2029",
+    "current_status": "Second year of the diploma stage",
+    "expected_graduation": "2029"],
+    "cgpa": {
+      "SEM 1": 8.84,
+      "SEM 2": 8.82,
+      "SEM 3": 8.61
+    },
+    "relevant_coursework": [
+      "Data Structures & Algorithms",
+      "Web Development",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "Database Management Systems"
+    ]
+  },
+  "technical_skills": {
+    "programming_languages": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript (JSX)"
+    ],
+    "web_technologies": [
+      "HTML",
+      "CSS",
+      "React.js",
+      "Tailwind CSS"
+    ],
+    "development_tools": [
+      "Git",
+      "GitHub",
+      "Firebase",
+      "VS Code",
+      "Vercel"
+    ],
+    "concepts": [
+      "Object-Oriented Programming (OOP)",
+      "API Development",
+      "Debugging",
+      "Full-Stack Development"
+    ],
+    "soft_skills": [
+      "Problem-Solving",
+      "Team Collaboration",
+      "Analytical Thinking",
+      "Attention to Detail"
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "project_name": "UKIYO Website",
+        "project_type": "Client Project",
+        "description": "Frontend website made using React.js, Tailwind CSS", " Framer Motion", " GitHub", " Vercel"
+      }
+    ]
+  },
+  "professional_details": {
+    "about_me": "A dedicated and highly motivated Computer Science student at MIT-WPU, pursuing an Integrated B.Tech in Computer Science and Engineering. Currently in the second year of the diploma stage, with a strong passion for software development, full-stack engineering, and problem-solving.",
+    "key_strengths": [
+      "Strong foundation in data structures and algorithms",
+      "Passion for full-stack development and UI/UX optimization",
+      "Ability to write clean, efficient, and scalable code",
+      "Quick adaptability to new technologies and frameworks"
+    ]
+  }
+}

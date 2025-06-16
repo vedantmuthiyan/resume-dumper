@@ -1,0 +1,56 @@
+{
+  "name": "IM A. SAMPLE",
+  "email": "imasample5@xxx.com",
+  "education": [
+    {
+      "title": "Taught college level courses", // implied education level is college
+      "subjects": "leadership, management, team building, effective writing and speech communications"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Management and Administration",
+      "tasks": [
+        "Directed, guided and motivated a workforce of up to 300 individuals",
+        "Provided day-to-day supervision for an administrative staff of up to sixty employees",
+        "Planned, designed and coordinated the programming of computer-based products"
+      ]
+    },
+    {
+      "title": "Training and Development",
+      "tasks": [
+        "Taught college level courses",
+        "Certified as Master Instructor; designed and developed curriculum",
+        "Advised and educated personnel on ways to enhance and strengthen their promotability and job performance"
+      ]
+    },
+    {
+      "title": "Communication and Counseling",
+      "tasks": [
+        "Conducted formal investigations and utilized a variety of counseling techniques",
+        "Worked one-on-one with customers and employees to enhance self esteem",
+        "Established and maintained effective working relationships with co-workers, superiors and subordinates"
+      ]
+    },
+    {
+      "title": "Technical Skills",
+      "tasks": [
+        "Microsoft Word", 
+        "Excel", 
+        "Other software applications"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "implied military",
+      "title": "Leader",
+      "dates": null,
+      "description": "Directly mentioned tasks and accomplishments"
+    }
+  ],
+  "professional_details": {
+    "address": "987 Northridge Drive, Omaha, Nebraska 68123",
+    "phone_number": "402-543-1234"
+  }
+}

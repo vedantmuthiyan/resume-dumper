@@ -1,0 +1,74 @@
+{
+  "name": "First Lastname",
+  "email": "selu.edu",
+  "education": {
+    "degree": "Bachelor of Science",
+    "field": "Biological Sciences",
+    "gpa": 3.1,
+    "graduationDate": "May  },
+  "skills": {
+    "CPR & First Aid Certified",
+    "Microsoft Word",
+    "Microsoft PowerPoint (Basic)",
+    "Microsoft Excel (Basic)"
+  },
+  "experience": [
+    {
+      "jobTitle": "Dining Room Attendant",
+      "company": "SLU Food Services",
+      "location": "Hammond, LA",
+      "duration": "August 2020 –March 2021",
+      "responsibilities": [
+        "Maintained clean and safe environment for dining hall serving 1,000+ patrons daily",
+        "Communicated with students and staff to resolve issues and ensure quality experience",
+        "Completed the Student Manager Training Program within the first month of work"
+      ]
+    },
+    {
+      "jobTitle": "Babysitter",
+      "company": "Self-Employed",
+      "location": "Covington, LA",
+      "duration": "August 2019 – June 2020",
+      "responsibilities": [
+        "Ensured the safety, health, and welfare of 2 children, ages 3 and 8, every day after school",
+        "Organized safe, fun, and educational activities such as visits to the park and crafts",
+        "Supported learning by explaining homework and working through problems together"
+      ]
+    },
+    {
+      "jobTitle": "Student Athlete",
+      "company": "Volleyball Team, Southeastern Louisiana University",
+      "location": "",
+      "duration": "August 2020 – Present",
+      "responsibilities": [
+        "Selected as 1 of # team members after completing a 20-hour intensive training period",
+        "Participated in # philanthropy events yearly to represent the university",
+        "Dedicated # hours per week to training and competition while balancing # academic hours"
+      ]
+    },
+    {
+      "jobTitle": "Volleyball Representative",
+      "company": "Student-Athlete Advisory Committee, Southeastern Louisiana University",
+      "location": "",
+      "duration": "August 2021 – May 2022",
+      "responsibilities": [
+        "Attended weekly committee meetings, representing the women's volleyball team fairly",
+        "Advocated for concerns and interests of student-athletes at Southeastern",
+        "Served as a leader to implement resolutions voted on by the board each year"
+      ]
+    },
+    {
+      "jobTitle": "Basketball Camp Coach/Coordinator",
+      "company": "Parks and Recreation",
+      "location": "La",
+      "duration": "Summer 2020 – 2022",
+      "responsibilities": [
+        "Instructed 60-70 1st – 9th grade athletes on proper athletic skills development",
+        "Created interactive sessions to engage youth and practice safe techniques and strategies",
+        "Collaborated with 4 other coaches in a team environment",
+        "Monitored and evaluated drills and activities and implemented proper safety measures",
+        "Maintained positive communication with campers and parents"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "IM A. SAMPLE II",
+  "email": "imasample2@xxx.com",
+  "education": {
+    "degree": "BS in Business Administration with Marketing Emphasis",
+    "institution": "Bellevue University, Bellevue, NE",
+    "expectedGraduationDate": "June, 20xx",
+    "gpa": "3.56/4.00",
+    "relevantCoursework: [
+      "Principles of Marketing",
+      "Business Communication",
+      "Internet Marketing",
+      "Consumer Behavior",
+      "Public Relations",
+      "Business Policy & Strategy"
+    ]
+  },
+  "skills": {
+    "languageSkills": "English/Spanish",
+    "computerSkills": [
+      "MS Office (Word, Excel, PowerPoint)",
+      "PhotoShop"
+    ]
+  },
+  "experience": {
+    "academicTutor": {
+      "employer": "Bellevue University, Bellevue, NE",
+      "startDate": "20xx",
+      "endDate": "present",
+      "responsibilities: [
+        "Assist college students in overcoming deficiencies and successfully mastering academic coursework."
+      ]
+    },
+    "seniorAccountsReceivableClerk": {
+      "employer": "Lincoln Financial Group, Omaha, NE",
+      "startDate": "20xx",
+      "endDate": "20xx",
+      "responsibilities": [
+        "Researched story ideas, wrote articles and participated in the publication of a weekly in-house newsletter.",
+        "Assisted customers and staff members in resolving problems and balancing accounts; trained new staff members.",
+        "Managed and recorded daily accounts receivable deposits of up to $450,000.",
+        "Conducted extensive research to recover lost checks and organized system to stop payment and replace all checks."
+      ]
+    }
+  },
+  "communityService": {
+    "advertisingCoordinator": {
+      "organization": "The Vue, Bellevue University Student Newspaper",
+      "startDate": "20xx",
+      "endDate": "present"
+    },
+    "volunteer": {
+      "organization": "Publicity Committee, Brushup Nebraska Paint-A-Thon",
+      "startDate": "20xx, 20xx"
+    }
+  },
+  "professionalDetails": {
+    "objective": "Internship or Part-time Position in Marketing, Public Relations or related field utilizing strong academic background and excellent communication skills"
+  }
+}

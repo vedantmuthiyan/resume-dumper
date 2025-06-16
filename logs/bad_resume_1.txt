@@ -1,0 +1,53 @@
+{
+  "name": "Hayden Smith",
+  "email": "haydensmith@email.com",
+  "education": [
+    {
+      "Park Hill Secondary College": {
+        "subjects": ["Maths", "English", "Business Management", "VET studies in Sport and Recreation"]
+        }
+    }
+  ],
+  "skills": [
+    "customer service ability",
+    "numeracy skills",
+    "highly developed communication skills",
+    "strong ability to work as part of a team",
+    "demonstrated organisation skills",
+    "able to take responsibility and solve problems"
+  ],
+  "experience": [
+    {
+      "December 2016 – March 2017, "Park Hill Soccer Club Canteen": {
+        "role": "Customer service (volunteer)",
+        "responsibilities": ["Served customers", "Handled cash including operating of cash register"]
+      }
+    },
+    {
+      "June 2016 – February 2017, "Argo Newsagency": {
+        "role": "Newspaper deliverer",
+        "responsibilities": ["Delivered weekend newspapers to houses"]
+      }
+    }
+  ],
+  "leadershipRoles": [
+    {
+      "2016 – current, Park Hill Soccer Club": {
+        "role": "Soccer umpire"
+      }
+    },
+    {
+      "2017 – current, Park Hill Soccer Club": {
+        "role": "Assistant Coach for junior players"
+      }
+    }
+  ],
+  "professionalDetails": {
+    "availability": {
+      "Monday – Friday": "4.30pm – 10.00pm",
+      "Saturday – Sunday": "8.00am – 11.00pm",
+      "maxHoursPerWeek": 20
+    },
+    "careerObjective": "I am reliable hard working Year 11 student seeking casual or part-time customer service work in a sports retail environment"
+  }
+}

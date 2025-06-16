@@ -1,0 +1,39 @@
+{
+  "name": "A. Sample",
+  "email": null, // Not provided
+  "education": [
+    {
+      "degree": "Bachelor of Science in Management",
+      "university": "Bellevue University",
+      "location": "Bellevue, Nebraska",
+      "gpa": "4.00/4.00",
+      "honors": "Graduated with Professional Honors, Dean’s Scholar"
+    },
+    {
+      "degree": "Associate of Applied Science in Communications Technology",
+      "university": "Community College of the Air Force"
+    }
+  ],
+  "skills": [
+    "Total Quality Management",
+    "Leadership Development",
+    "Curriculum Development",
+    "Interpersonal Communications",
+    "Management",
+    "Leadership"
+  ],
+  "experience": [
+    {
+      "organization": "United States Air Force",
+      "startDate": "20xx",
+      "endDate": "present",
+      "positions": [
+        "Squadron Operation Superintendent"
+      ]
+    }
+  ],
+  "professionalDetails": {
+    "Certified as Total Quality Management Facilitator",
+    "Qualified Master Air Training Command Instructor in Leadership and Management"
+  }
+}

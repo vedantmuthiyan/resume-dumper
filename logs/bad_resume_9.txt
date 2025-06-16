@@ -1,0 +1,38 @@
+{
+  "name": "Im A. Sample VII",
+  "email": "imasample7@xxx.com",
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "university": "Bellevue University",
+      "location": "Bellevue, NE",
+      "graduationDate": "20xx",
+      "majors": ["Psychology", "Sociology"],
+      "GPA": "4.00/4.00",
+      "awards": ["Graduated Summa Cum Laude", "Dean's Scholar", "National Dean's List"],
+      "relevantCourses": ["Fundamentals of Guidance & Counseling", "Personality Theory", "Psychological Assessment", "Learning Theory", "Research Methods & Psychological Research", "Social Psychology"]
+    }
+  ],
+  "skills": ["excellent communication skills", "academic background"],
+  "experience": [
+    {
+      "jobTitle": "Writing Tutor and Test Administrator",
+      "company": "Bellevue University",
+      "location": "Bellevue, NE",
+      "duration": "20xx - 20xx"],
+      "responsibilities": ["Assisted in the preparation and administration of various assessment instruments", "Provided tutorial assistance to undergraduate and graduate students", "Advised and assisted international students with writing assignments"]
+    },
+    {
+      "jobTitle": "Research Assistant",
+      "company": "University of Nebraska Medical Center",
+      "location": "Omaha, NE",
+      "duration": ["Summer 20xx", "20xx"],
+      "responsibilities": ["Assisted child psychologist in a two-part Summer Research Enrichment Program", "Performed literature searches and prepared summary reports for a major research project involving the study of individuals with disabilities]
+    }
+  ],
+  "professionalDetails": {
+    "collegiateHonors": ["Listed in Who's Who Among Students in American Colleges and Universities"],
+    "honors": ["Member, Pi Gamma Mu and Alpha Chi Honor Societies"],
+    "activities": ["Behavioral and Social Sciences Student Organization", "Volunteer Contributor, The VUE, Bellevue University Student Newspaper", "Member, Bellevue University Student Advisory Council"]
+  }
+}

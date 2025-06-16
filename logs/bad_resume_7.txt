@@ -1,0 +1,49 @@
+{
+  "name": "A. Sample IV",
+  "email": "imasample4@xxx.com",
+  "education": {
+    "degree": "Bachelor of Science",
+    "institution": "Bellevue University",
+    "location": "Bellevue, NE",
+    "graduationDate": "June, 20xx",
+    "major": "Computer Information Systems in Business",
+    "minor": "Mathematics",
+    "gpa": "3.98/4.00"
+  },
+  "skills": {
+    "technical": [
+      "Java,
+      "PERL",
+      "ASP",
+      "PHP Scripting",
+      "Relational Databases",
+      "SQL",
+      "Inferential Statistics",
+      "Data Analysis",
+      "Calculus & Mathematical Analysis",
+      "SPSS"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Intern-Market Research",
+      "company": "Mutual of Omaha",
+      "location": "Omaha, NE",
+      "duration": "Fall Semester, 20xx"
+    },
+    {
+      "title": "Sales Associate & Machinist Assistant",
+      "company": "Precision Tool",
+      "location": "Omaha, NE",
+      "duration": "20xx to present"
+    }
+  ],
+  "professionalDetails": {
+    "objective": "Position in market research or financial analysis where strong technical skills, mathematical/statistical background and problem solving abilities can be applied towards the successful achievement of business goals and objectives",
+    "profile": [
+        "Exceptionally well organized, resourceful and highly motivated with the ability to handle multiple projects and produce timely, high quality work.",
+        "Strong analytical and human relations skills; especially effective in helping customers and associates resolve issues and concerns."
+      ]
+    }
+  }
+}
