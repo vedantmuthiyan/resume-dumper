@@ -4,7 +4,7 @@ import openai
 import re
 import time
 
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 openai.api_base = "https://api.groq.com/openai/v1"
 
 def extract_json_block(text):

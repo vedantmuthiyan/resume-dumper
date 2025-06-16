@@ -27,7 +27,7 @@ This project is a hybrid Java-Python application designed to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/resume-dumper.git
+git clone https://github.com/vedantmuthiyan/resume-dumper.git
 cd resume-dumper
 ```
 
