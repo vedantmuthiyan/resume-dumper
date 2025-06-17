@@ -6,15 +6,16 @@ import java.nio.file.*;
 import java.sql.*;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
+import io.github.cdimascio.dotenv.Dotenv;
 
 public class ResumeDumper {
 
     static final String DB_URL = "jdbc:mysql://localhost:3306/company";
     static final String USER = "root";
-    static final String PASS = "vedant123";
+    static final String PASS = System.getenv("DB_PASSWORD");
 
     public static void main(String[] args) {
-        String folderPath = "C:\\Users\\SachinM\\Desktop\\Coditas Assignment 1\\resumes";
+        String folderPath = System.getenv("RESUME_SOURCE");
 
         try (Connection conn = DriverManager.getConnection(DB_URL, USER, PASS)) {
             Files.list(Paths.get(folderPath))

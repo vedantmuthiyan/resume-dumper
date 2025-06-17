@@ -2,9 +2,13 @@ import mysql.connector
 import json
 import openai
 import re
+import os
+from dotenv import load_dotenv
 import time
 
-openai.api_key = "YOUR_API_KEY"
+load_dotenv()
+
+openai.api_key = os.getenv("GROQ_API_KEY")
 openai.api_base = "https://api.groq.com/openai/v1"
 
 def extract_json_block(text):
@@ -18,10 +22,10 @@ def extract_json_block(text):
 
 def process_missing_resumes():
     conn = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="vedant123",
-        database="company"
+        host=os.getenv("DB_HOST"),
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASSWORD"),
+        database=os.getenv("DB_NAME"),
     )
     cursor = conn.cursor()
 
@@ -52,7 +56,7 @@ def process_missing_resumes():
 
         try:
             response = openai.ChatCompletion.create(
-                model="deepseek-r1-distill-llama-70b",
+                model="llama-3.3-70b-versatile",
                 temperature=0.4,
                 messages=[
                     {
